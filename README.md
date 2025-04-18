@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=ヾ(•ω•`)o 你说的对." alt="ahh" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%E3%83%BE(%E2%80%A2%CF%89%E2%80%99)o%20%E4%BD%A0%E8%AF%B4%E7%9A%84%E5%AF%B9." alt="ahh" />
 </p>
 
 <p align="center">
