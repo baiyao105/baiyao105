@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/%E7%BE%A4%E4%BC%9E.png" alt="header" width="480" loading="lazy" />
+<img src="img/%E7%BE%A4%E4%BC%9E.png" alt="header" width="800" loading="lazy" />
 </p>
 
 <h2 align="center">群伞在雨幕中盛开<br/>而我愿与你共徘徊</h2>
