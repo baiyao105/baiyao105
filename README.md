@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f744b14-bd66-49ca-9aac-0e13899adaeb" alt="header" />
+  <img src="img/%E7%BE%A4%E4%BC%9E.png" alt="header" />
 </p>
 
 <h2 align="center">群伞在雨幕中盛开<br/>而我愿与你共徘徊</h2>
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%E3%83%BE(%E2%80%A2%CF%89%E2%80%99)o%20%E4%BD%A0%E8%AF%B4%E7%9A%84%E5%AF%B9." alt="ahh" />
 </p>
+-->
 
 <p align="center">
   <img src="https://moe-counter.lxchapu.com/baiyao105?theme=moebooru" alt="visitor_counter" />
