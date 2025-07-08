@@ -11,7 +11,7 @@
 -->
 
 
-### 想找我就给咱发[邮件](mailto:nell_baiyao@outlook.com)喵~
+### 想找我就给咱发[邮件](mailto:nell_baiyao@outlook.jp)喵~
   ~我会认真看哒~
 （好啦,就这些~）
 
