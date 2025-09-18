@@ -1,4 +1,4 @@
-g<p align="center">
+<p align="center">
   <img src="img/%E7%BE%A4%E4%BC%9E.png" alt="header" width="800" loading="lazy" />
 </p>
 
