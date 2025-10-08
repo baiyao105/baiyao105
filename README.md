@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/%E7%BE%A4%E4%BC%9E.png" alt="header" width="800" loading="lazy" />
+  <img src="img/%E7%BE%A4%E4%BC%9E.png" alt="header" width="320" loading="lazy" />
 </p>
 
 <h2 align="center">
@@ -7,15 +7,11 @@
   而我愿与你共徘徊
 </h2>
 
-<!--
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%E5%96%B5~" alt="typing" />
+  <em>随缘上线, 慢慢恢复中</em>
 </p>
--->
 
-### 随缘在线, 睡大觉💤
->
-> (咕咕咕)
+> 不要问了,还是在努力活着呢。~
 
 ---
 
