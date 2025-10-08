@@ -1,17 +1,17 @@
-<p align="center">
-  <img src="img/%E7%BE%A4%E4%BC%9E.png" alt="header" width="320" loading="lazy" />
-</p>
+<img src="img/%E7%BE%A4%E4%BC%9E.png" alt="header" width="330" loading="lazy" align="left"/>
+<div align="center" style="text-align: right;">
+  <h2 align="center" style="margin: 0;">
+    群伞在雨幕中盛开<br>
+    而我愿与你共徘徊
+  </h2>
+</div>
 
-<h2 align="center">
-  群伞在雨幕中盛开<br>
-  而我愿与你共徘徊
-</h2>
 
-<p align="center">
-  <em>随缘上线, 慢慢恢复中</em>
-</p>
+<div style="clear: both;"></div>
 
-> 不要问了,还是在努力活着呢。~
+### 🐟 随缘上线, 慢慢恢复中
+> ~~不要问了~~,还是在努力活着呢~。
+
 
 ---
 
