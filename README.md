@@ -16,6 +16,9 @@
 ---
 
 <p align="center">
+  <a href="https://gitroll.io/profile/uEs9J3b4gw4WELlU1QdmB4ay3nd23" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uEs9J3b4gw4WELlU1QdmB4ay3nd23?theme=kawaiiCat" alt="GitRoll Profile Badge" height="200" />
+  </a>
   <img src="https://moe-counter.lxchapu.com/baiyao105?theme=moebooru" alt="moe" />
 </p>
 
