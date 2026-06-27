@@ -1,17 +1,20 @@
-<img src="img/%E7%BE%A4%E4%BC%9E.webp" alt="header" width="330" loading="lazy" align="left"/>
+<img src="img/%E7%BE%A4%E4%BC%9E.webp" alt="header" width="390" loading="lazy" align="left"/>
 <div align="center" style="text-align: right;">
   <h2 align="center" style="margin: 0;">
     群伞在雨幕中盛开<br>
     而我愿与你共徘徊
   </h2>
+  <p align="left">
+     <a href="https://baiyao105.github.io/support/" target="_blank">
+        <img src="https://img.shields.io/badge/💖_请我喝奶茶-FF69B4?style=for-the-badge" alt="捐赠页" />
+     </a> 
+  </p>
 </div>
-
 
 <div style="clear: both;"></div>
 
 ### 🐟 随缘上线(嗯对。)
 > 不要问了。~我会很凶。~
-
 
 ---
 
